@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code, data, or figures, please cite as below."
+title: "New Zealand vs Small Advanced Economy Research Priorities: Reproducible Code and Figures (Core Set)"
+type: software
+version: 1.0.0
+date-released: 2026-08-16
+authors:
+  - family-names: "Hendy"
+    given-names: "Shaun"
+    # orcid: "https://orcid.org/0000-0003-3468-6517"   # optional, uncomment and fill in if you have one
+repository-code: "https://github.com/hendysh/PMSITAC"
+license: MIT
+keywords:
+  - science policy
+  - research funding
+  - New Zealand
+  - R&D benchmarking
+  - PMSITAC
+  - reproducible research
+abstract: >
+  Reproducible code, data, and figures (core set: GAK/GBARD benchmarking
+  and the SEO->FORD field-of-research comparison) for a reanalysis of New
+  Zealand's public R&D funding priorities against genuine Small Advanced
+  Economy (SAE) peers, correcting the PMSITAC (2026) prioritisation 
+  report's benchmarking methodology. Figure numbers (1, 2, 3, A1) match 
+  "Impact of Refocusing FINAL.pdf" (Hendy, 2026). Includes an empirically-fitted 
+  SEO->FORD crosswalk, corrected SAE comparator group, and multi-year GAK estimates 
+  with leave-one-country-out uncertainty bands.
+references:
+  - type: report
+    title: "Report to the Prime Minister: Prioritisation in New Zealand's Science, Innovation and Technology system"
+    authors:
+      - name: "Prime Minister's Science, Innovation and Technology Advisory Council"
+    institution:
+      name: "Ministry of Business, Innovation and Employment"
+    year: 2026
+  - type: report
+    title: "New Zealand vs Small Advanced Economy Research Priorities: A Corrected Reanalysis of the PMSITAC Report Findings"
+    authors:
+      - family-names: "Hendy"
+        given-names: "Shaun"
+    year: 2026
