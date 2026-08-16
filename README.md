@@ -11,7 +11,8 @@ not include additional validation checks.
 
 ## Manuscript
 
-[Impact of Refocusing FINAL.pdf](paper/Impact of Refocusing FINAL.pdf) 
+[Impact of Refocusing](paper/Impact%20of%20Refocusing%20FINAL.pdf) 
+
 Figure numbers in this repository (`Figure 1`, `Figure 2`, `Figure 3`, 
 `Figure A1`) match the manuscript's own numbering directly.
 
