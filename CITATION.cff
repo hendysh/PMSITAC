@@ -7,7 +7,7 @@ date-released: 2026-08-16
 authors:
   - family-names: "Hendy"
     given-names: "Shaun"
-    # orcid: "https://orcid.org/0000-0003-3468-6517"   # optional, uncomment and fill in if you have one
+    orcid: "https://orcid.org/0000-0003-3468-6517"   
 repository-code: "https://github.com/hendysh/PMSITAC"
 license: MIT
 keywords:
@@ -26,6 +26,17 @@ abstract: >
   "Impact of Refocusing FINAL.pdf" (Hendy, 2026). Includes an empirically-fitted 
   SEO->FORD crosswalk, corrected SAE comparator group, and multi-year GAK estimates 
   with leave-one-country-out uncertainty bands.
+preferred-citation:
+  type: report
+  title: "PMSITAC"
+  authors:
+    - family-names: "Hendy"
+      given-names: "Shaun"
+  year: 2026
+  institution:
+    name: "GitHub"
+  url: "https://github.com/hendysh/PMSITAC"
+  notes: "Working paper"
 references:
   - type: report
     title: "Report to the Prime Minister: Prioritisation in New Zealand's Science, Innovation and Technology system"
