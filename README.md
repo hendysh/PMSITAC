@@ -33,7 +33,7 @@ paper/
 ├── data/           the exact data each figure plots
 ├── figures/        rendered PNG outputs
 ├── figure_captions.md
-├── Impact%of%Refocussing%FINAL.pdf
+├── Impact%20of%20Refocussing%20FINAL.pdf
 └── README.md       full documentation
 ```
 
